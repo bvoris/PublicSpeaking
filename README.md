@@ -5,7 +5,10 @@ I have been very fortunate to have the privilege to speak publically about my ex
 ## Content
 ## Featured In
 <BR />
-https://github.com/bvoris/CollectiveWorks/blob/main/Articles/Top%20Cyber%20News%20Magazine%20December%202022.pdf
+Cyber Warnings E-Magazine - How Windows Active Directory is the root cause of many logon security headaches<BR />
+Quotes on the insecurities of Active Directory:<BR />
+"Brad Voris also comments on the inflexibility of group logs, saying: “Audit logs are in the form of event logs with specific error messages, some of which require Group Policy configuration changes on the Domain Controller Default Policy. Initially there is VERY limited logs and in order to get more data you have to make a fair amount of changes to Group Policy. Very important.” "<BR />
+https://www.isdecisions.com/Resources/pdf/cyber-defense-magazine-ad-root-cause-problems-article.pdf
 <BR /><BR />
 
 HOU.SEC.CON - Threat Modeling with Mitre ATT&CK Framework by Brad Voris<BR />
