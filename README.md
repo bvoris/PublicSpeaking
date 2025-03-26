@@ -34,5 +34,3 @@ https://www.youtube.com/watch?v=417HVg2_a_I<BR />
 
 <A HREF="https://www.victimoftechnology.com">Victim Of Technology<A />
 <BR /><BR />
-<A HREF="https://www.cyberforgesecurity.com">Cyber Forge Security, Inc.<A />
-<BR /><BR />
