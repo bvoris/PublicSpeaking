@@ -11,9 +11,11 @@ Quotes on the insecurities of Active Directory:<BR />
 https://www.isdecisions.com/Resources/pdf/cyber-defense-magazine-ad-root-cause-problems-article.pdf
 <BR /><BR />
 
-HOU.SEC.CON - Threat Modeling with Mitre ATT&CK Framework by Brad Voris<BR />
+HOU.SEC.CON 2024 - Threat Modeling with Mitre ATT&CK Framework by Brad Voris<BR />
 https://www.youtube.com/watch?v=BhuFZ_4syVU<BR />
 https://github.com/bvoris/houseccon2024presentation/<BR />
+HOU.SEC.CON 2025 - Mentorship<BR />
+https://github.com/bvoris/houseccon2025presentation/<BR />
 <BR /><BR />
 
 Breaking into Cybersecurity Leadership - with Host: Christophe Foulon - Brad Voris<BR />
