@@ -16,6 +16,8 @@ https://www.youtube.com/watch?v=BhuFZ_4syVU<BR />
 https://github.com/bvoris/houseccon2024presentation/<BR /><BR />
 HOU.SEC.CON 2025 - Mentorship<BR />
 https://github.com/bvoris/houseccon2025presentation/<BR />
+HOU.SEC.CON 2025 -  CISO Series (Quick couple of seconds @about 98 seconds into it) "They don't test their plans..."<BR />
+https://youtu.be/bVlqLHs9BaQ?si=NnLtVjdKvlI5v6Vm&t=98
 <BR /><BR />
 
 Breaking into Cybersecurity Leadership - with Host: Christophe Foulon - Brad Voris<BR />
